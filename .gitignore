@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.pytest_cache/
+
+# Java / Gradle
+.gradle/
+build/
+buildSrc_disabled/
+*.class
+*.jar
+
+# IDE
+.idea/
+.vscode/
+*.iml
